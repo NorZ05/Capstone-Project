@@ -1,0 +1,45 @@
+services:
+  db:
+    image: postgres:15
+    environment:
+      POSTGRES_USER: postgres
+      POSTGRES_PASSWORD: example
+      POSTGRES_DB: misdb
+    volumes:
+      - pgdata:/var/lib/postgresql/data
+    ports:
+      - "5432:5432"
+
+  backend:
+    build: ./backend
+    env_file:
+      - ./backend/.env
+    ports:
+      - "5000:5000"
+    volumes:
+      - ./backend:/usr/src/app
+      - /usr/src/app/node_modules
+    command: npm run dev
+    depends_on:
+      - db
+
+  frontend:
+    build: ./frontend
+    ports:
+      - "3000:3000"
+    environment:
+      - HOST=0.0.0.0
+      - REACT_APP_API_URL=http://127.0.0.1:5000
+      - ESLINT_NO_DEV_ERRORS=true
+      - CHOKIDAR_USEPOLLING=true
+      - BROWSER=none
+    volumes:
+      - ./frontend:/usr/src/app
+      - /usr/src/app/node_modules
+    command: sh -c "cd /usr/src/app && npm install && npm start"
+    depends_on:
+      - backend
+
+volumes:
+  pgdata:
+  # note: node_modules for frontend is mounted as an anonymous volume above to avoid host overwrite

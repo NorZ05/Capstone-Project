@@ -1,0 +1,585 @@
+{
+  "metrics": {
+    "totalRecords": 1005,
+    "anomaliesFound": 96,
+    "durationMs": 10
+  },
+  "anomalies": [
+    {
+      "source": "Inventory",
+      "severity": "Info",
+      "description": "Stock adjustment for Cement Bag 40kg (restock) at 2023-01-01T00:00:00.000Z",
+      "timestamp": "2023-01-01T00:00:00.000Z"
+    },
+    {
+      "source": "Inventory",
+      "severity": "Info",
+      "description": "Stock adjustment for Rebar 10mm (restock) at 2023-01-01T00:00:00.000Z",
+      "timestamp": "2023-01-01T00:00:00.000Z"
+    },
+    {
+      "source": "Inventory",
+      "severity": "Info",
+      "description": "Stock adjustment for Gravel 1m3 (restock) at 2023-01-01T00:00:00.000Z",
+      "timestamp": "2023-01-01T00:00:00.000Z"
+    },
+    {
+      "source": "Inventory",
+      "severity": "Info",
+      "description": "Stock adjustment for Plywood 8ft (restock) at 2023-01-01T00:00:00.000Z",
+      "timestamp": "2023-01-01T00:00:00.000Z"
+    },
+    {
+      "source": "Inventory",
+      "severity": "Info",
+      "description": "Stock adjustment for Asphalt 50kg (restock) at 2023-01-01T00:00:00.000Z",
+      "timestamp": "2023-01-01T00:00:00.000Z"
+    },
+    {
+      "source": "Inventory",
+      "severity": "Info",
+      "description": "Stock adjustment for Hollow Block (restock) at 2023-01-01T00:00:00.000Z",
+      "timestamp": "2023-01-01T00:00:00.000Z"
+    },
+    {
+      "source": "Inventory",
+      "severity": "Info",
+      "description": "Stock adjustment for Cement Bag 40kg (restock) at 2023-02-01T00:00:00.000Z",
+      "timestamp": "2023-02-01T00:00:00.000Z"
+    },
+    {
+      "source": "Inventory",
+      "severity": "Info",
+      "description": "Stock adjustment for Rebar 10mm (restock) at 2023-02-01T00:00:00.000Z",
+      "timestamp": "2023-02-01T00:00:00.000Z"
+    },
+    {
+      "source": "Inventory",
+      "severity": "Info",
+      "description": "Stock adjustment for Gravel 1m3 (restock) at 2023-02-01T00:00:00.000Z",
+      "timestamp": "2023-02-01T00:00:00.000Z"
+    },
+    {
+      "source": "Inventory",
+      "severity": "Info",
+      "description": "Stock adjustment for Plywood 8ft (restock) at 2023-02-01T00:00:00.000Z",
+      "timestamp": "2023-02-01T00:00:00.000Z"
+    },
+    {
+      "source": "Inventory",
+      "severity": "Info",
+      "description": "Stock adjustment for Asphalt 50kg (restock) at 2023-02-01T00:00:00.000Z",
+      "timestamp": "2023-02-01T00:00:00.000Z"
+    },
+    {
+      "source": "Inventory",
+      "severity": "Info",
+      "description": "Stock adjustment for Hollow Block (restock) at 2023-02-01T00:00:00.000Z",
+      "timestamp": "2023-02-01T00:00:00.000Z"
+    },
+    {
+      "source": "Inventory",
+      "severity": "Info",
+      "description": "Stock adjustment for Cement Bag 40kg (restock) at 2023-05-01T00:00:00.000Z",
+      "timestamp": "2023-05-01T00:00:00.000Z"
+    },
+    {
+      "source": "Inventory",
+      "severity": "Info",
+      "description": "Stock adjustment for Rebar 10mm (restock) at 2023-05-01T00:00:00.000Z",
+      "timestamp": "2023-05-01T00:00:00.000Z"
+    },
+    {
+      "source": "Inventory",
+      "severity": "Info",
+      "description": "Stock adjustment for Gravel 1m3 (restock) at 2023-05-01T00:00:00.000Z",
+      "timestamp": "2023-05-01T00:00:00.000Z"
+    },
+    {
+      "source": "Inventory",
+      "severity": "Info",
+      "description": "Stock adjustment for Plywood 8ft (restock) at 2023-05-01T00:00:00.000Z",
+      "timestamp": "2023-05-01T00:00:00.000Z"
+    },
+    {
+      "source": "Inventory",
+      "severity": "Info",
+      "description": "Stock adjustment for Asphalt 50kg (restock) at 2023-05-01T00:00:00.000Z",
+      "timestamp": "2023-05-01T00:00:00.000Z"
+    },
+    {
+      "source": "Inventory",
+      "severity": "Info",
+      "description": "Stock adjustment for Hollow Block (restock) at 2023-05-01T00:00:00.000Z",
+      "timestamp": "2023-05-01T00:00:00.000Z"
+    },
+    {
+      "source": "Inventory",
+      "severity": "Info",
+      "description": "Stock adjustment for Cement Bag 40kg (restock) at 2023-06-01T00:00:00.000Z",
+      "timestamp": "2023-06-01T00:00:00.000Z"
+    },
+    {
+      "source": "Inventory",
+      "severity": "Info",
+      "description": "Stock adjustment for Rebar 10mm (restock) at 2023-06-01T00:00:00.000Z",
+      "timestamp": "2023-06-01T00:00:00.000Z"
+    },
+    {
+      "source": "Inventory",
+      "severity": "Info",
+      "description": "Stock adjustment for Gravel 1m3 (restock) at 2023-06-01T00:00:00.000Z",
+      "timestamp": "2023-06-01T00:00:00.000Z"
+    },
+    {
+      "source": "Inventory",
+      "severity": "Info",
+      "description": "Stock adjustment for Plywood 8ft (restock) at 2023-06-01T00:00:00.000Z",
+      "timestamp": "2023-06-01T00:00:00.000Z"
+    },
+    {
+      "source": "Inventory",
+      "severity": "Info",
+      "description": "Stock adjustment for Asphalt 50kg (restock) at 2023-06-01T00:00:00.000Z",
+      "timestamp": "2023-06-01T00:00:00.000Z"
+    },
+    {
+      "source": "Inventory",
+      "severity": "Info",
+      "description": "Stock adjustment for Hollow Block (restock) at 2023-06-01T00:00:00.000Z",
+      "timestamp": "2023-06-01T00:00:00.000Z"
+    },
+    {
+      "source": "Inventory",
+      "severity": "Info",
+      "description": "Stock adjustment for Cement Bag 40kg (restock) at 2023-08-01T00:00:00.000Z",
+      "timestamp": "2023-08-01T00:00:00.000Z"
+    },
+    {
+      "source": "Inventory",
+      "severity": "Info",
+      "description": "Stock adjustment for Rebar 10mm (restock) at 2023-08-01T00:00:00.000Z",
+      "timestamp": "2023-08-01T00:00:00.000Z"
+    },
+    {
+      "source": "Inventory",
+      "severity": "Info",
+      "description": "Stock adjustment for Gravel 1m3 (restock) at 2023-08-01T00:00:00.000Z",
+      "timestamp": "2023-08-01T00:00:00.000Z"
+    },
+    {
+      "source": "Inventory",
+      "severity": "Info",
+      "description": "Stock adjustment for Plywood 8ft (restock) at 2023-08-01T00:00:00.000Z",
+      "timestamp": "2023-08-01T00:00:00.000Z"
+    },
+    {
+      "source": "Inventory",
+      "severity": "Info",
+      "description": "Stock adjustment for Asphalt 50kg (restock) at 2023-08-01T00:00:00.000Z",
+      "timestamp": "2023-08-01T00:00:00.000Z"
+    },
+    {
+      "source": "Inventory",
+      "severity": "Info",
+      "description": "Stock adjustment for Hollow Block (restock) at 2023-08-01T00:00:00.000Z",
+      "timestamp": "2023-08-01T00:00:00.000Z"
+    },
+    {
+      "source": "Inventory",
+      "severity": "Info",
+      "description": "Stock adjustment for Cement Bag 40kg (restock) at 2023-10-01T00:00:00.000Z",
+      "timestamp": "2023-10-01T00:00:00.000Z"
+    },
+    {
+      "source": "Inventory",
+      "severity": "Info",
+      "description": "Stock adjustment for Rebar 10mm (restock) at 2023-10-01T00:00:00.000Z",
+      "timestamp": "2023-10-01T00:00:00.000Z"
+    },
+    {
+      "source": "Inventory",
+      "severity": "Info",
+      "description": "Stock adjustment for Gravel 1m3 (restock) at 2023-10-01T00:00:00.000Z",
+      "timestamp": "2023-10-01T00:00:00.000Z"
+    },
+    {
+      "source": "Inventory",
+      "severity": "Info",
+      "description": "Stock adjustment for Plywood 8ft (restock) at 2023-10-01T00:00:00.000Z",
+      "timestamp": "2023-10-01T00:00:00.000Z"
+    },
+    {
+      "source": "Inventory",
+      "severity": "Info",
+      "description": "Stock adjustment for Asphalt 50kg (restock) at 2023-10-01T00:00:00.000Z",
+      "timestamp": "2023-10-01T00:00:00.000Z"
+    },
+    {
+      "source": "Inventory",
+      "severity": "Info",
+      "description": "Stock adjustment for Hollow Block (restock) at 2023-10-01T00:00:00.000Z",
+      "timestamp": "2023-10-01T00:00:00.000Z"
+    },
+    {
+      "source": "Inventory",
+      "severity": "Info",
+      "description": "Stock adjustment for Cement Bag 40kg (restock) at 2023-11-01T00:00:00.000Z",
+      "timestamp": "2023-11-01T00:00:00.000Z"
+    },
+    {
+      "source": "Inventory",
+      "severity": "Info",
+      "description": "Stock adjustment for Rebar 10mm (restock) at 2023-11-01T00:00:00.000Z",
+      "timestamp": "2023-11-01T00:00:00.000Z"
+    },
+    {
+      "source": "Inventory",
+      "severity": "Info",
+      "description": "Stock adjustment for Gravel 1m3 (restock) at 2023-11-01T00:00:00.000Z",
+      "timestamp": "2023-11-01T00:00:00.000Z"
+    },
+    {
+      "source": "Inventory",
+      "severity": "Info",
+      "description": "Stock adjustment for Plywood 8ft (restock) at 2023-11-01T00:00:00.000Z",
+      "timestamp": "2023-11-01T00:00:00.000Z"
+    },
+    {
+      "source": "Inventory",
+      "severity": "Info",
+      "description": "Stock adjustment for Asphalt 50kg (restock) at 2023-11-01T00:00:00.000Z",
+      "timestamp": "2023-11-01T00:00:00.000Z"
+    },
+    {
+      "source": "Inventory",
+      "severity": "Info",
+      "description": "Stock adjustment for Hollow Block (restock) at 2023-11-01T00:00:00.000Z",
+      "timestamp": "2023-11-01T00:00:00.000Z"
+    },
+    {
+      "source": "Inventory",
+      "severity": "Info",
+      "description": "Stock adjustment for Cement Bag 40kg (restock) at 2023-12-01T00:00:00.000Z",
+      "timestamp": "2023-12-01T00:00:00.000Z"
+    },
+    {
+      "source": "Inventory",
+      "severity": "Info",
+      "description": "Stock adjustment for Rebar 10mm (restock) at 2023-12-01T00:00:00.000Z",
+      "timestamp": "2023-12-01T00:00:00.000Z"
+    },
+    {
+      "source": "Inventory",
+      "severity": "Info",
+      "description": "Stock adjustment for Gravel 1m3 (restock) at 2023-12-01T00:00:00.000Z",
+      "timestamp": "2023-12-01T00:00:00.000Z"
+    },
+    {
+      "source": "Inventory",
+      "severity": "Info",
+      "description": "Stock adjustment for Plywood 8ft (restock) at 2023-12-01T00:00:00.000Z",
+      "timestamp": "2023-12-01T00:00:00.000Z"
+    },
+    {
+      "source": "Inventory",
+      "severity": "Info",
+      "description": "Stock adjustment for Asphalt 50kg (restock) at 2023-12-01T00:00:00.000Z",
+      "timestamp": "2023-12-01T00:00:00.000Z"
+    },
+    {
+      "source": "Inventory",
+      "severity": "Info",
+      "description": "Stock adjustment for Hollow Block (restock) at 2023-12-01T00:00:00.000Z",
+      "timestamp": "2023-12-01T00:00:00.000Z"
+    },
+    {
+      "source": "Inventory",
+      "severity": "Info",
+      "description": "Stock adjustment for Cement Bag 40kg (restock) at 2024-01-01T00:00:00.000Z",
+      "timestamp": "2024-01-01T00:00:00.000Z"
+    },
+    {
+      "source": "Inventory",
+      "severity": "Info",
+      "description": "Stock adjustment for Rebar 10mm (restock) at 2024-01-01T00:00:00.000Z",
+      "timestamp": "2024-01-01T00:00:00.000Z"
+    },
+    {
+      "source": "Inventory",
+      "severity": "Info",
+      "description": "Stock adjustment for Gravel 1m3 (restock) at 2024-01-01T00:00:00.000Z",
+      "timestamp": "2024-01-01T00:00:00.000Z"
+    },
+    {
+      "source": "Inventory",
+      "severity": "Info",
+      "description": "Stock adjustment for Plywood 8ft (restock) at 2024-01-01T00:00:00.000Z",
+      "timestamp": "2024-01-01T00:00:00.000Z"
+    },
+    {
+      "source": "Inventory",
+      "severity": "Info",
+      "description": "Stock adjustment for Asphalt 50kg (restock) at 2024-01-01T00:00:00.000Z",
+      "timestamp": "2024-01-01T00:00:00.000Z"
+    },
+    {
+      "source": "Inventory",
+      "severity": "Info",
+      "description": "Stock adjustment for Hollow Block (restock) at 2024-01-01T00:00:00.000Z",
+      "timestamp": "2024-01-01T00:00:00.000Z"
+    },
+    {
+      "source": "Inventory",
+      "severity": "Info",
+      "description": "Stock adjustment for Cement Bag 40kg (restock) at 2024-03-01T00:00:00.000Z",
+      "timestamp": "2024-03-01T00:00:00.000Z"
+    },
+    {
+      "source": "Inventory",
+      "severity": "Info",
+      "description": "Stock adjustment for Rebar 10mm (restock) at 2024-03-01T00:00:00.000Z",
+      "timestamp": "2024-03-01T00:00:00.000Z"
+    },
+    {
+      "source": "Inventory",
+      "severity": "Info",
+      "description": "Stock adjustment for Gravel 1m3 (restock) at 2024-03-01T00:00:00.000Z",
+      "timestamp": "2024-03-01T00:00:00.000Z"
+    },
+    {
+      "source": "Inventory",
+      "severity": "Info",
+      "description": "Stock adjustment for Plywood 8ft (restock) at 2024-03-01T00:00:00.000Z",
+      "timestamp": "2024-03-01T00:00:00.000Z"
+    },
+    {
+      "source": "Inventory",
+      "severity": "Info",
+      "description": "Stock adjustment for Asphalt 50kg (restock) at 2024-03-01T00:00:00.000Z",
+      "timestamp": "2024-03-01T00:00:00.000Z"
+    },
+    {
+      "source": "Inventory",
+      "severity": "Info",
+      "description": "Stock adjustment for Hollow Block (restock) at 2024-03-01T00:00:00.000Z",
+      "timestamp": "2024-03-01T00:00:00.000Z"
+    },
+    {
+      "source": "Inventory",
+      "severity": "Info",
+      "description": "Stock adjustment for Cement Bag 40kg (restock) at 2024-04-01T00:00:00.000Z",
+      "timestamp": "2024-04-01T00:00:00.000Z"
+    },
+    {
+      "source": "Inventory",
+      "severity": "Info",
+      "description": "Stock adjustment for Rebar 10mm (restock) at 2024-04-01T00:00:00.000Z",
+      "timestamp": "2024-04-01T00:00:00.000Z"
+    },
+    {
+      "source": "Inventory",
+      "severity": "Info",
+      "description": "Stock adjustment for Gravel 1m3 (restock) at 2024-04-01T00:00:00.000Z",
+      "timestamp": "2024-04-01T00:00:00.000Z"
+    },
+    {
+      "source": "Inventory",
+      "severity": "Info",
+      "description": "Stock adjustment for Plywood 8ft (restock) at 2024-04-01T00:00:00.000Z",
+      "timestamp": "2024-04-01T00:00:00.000Z"
+    },
+    {
+      "source": "Inventory",
+      "severity": "Info",
+      "description": "Stock adjustment for Asphalt 50kg (restock) at 2024-04-01T00:00:00.000Z",
+      "timestamp": "2024-04-01T00:00:00.000Z"
+    },
+    {
+      "source": "Inventory",
+      "severity": "Info",
+      "description": "Stock adjustment for Hollow Block (restock) at 2024-04-01T00:00:00.000Z",
+      "timestamp": "2024-04-01T00:00:00.000Z"
+    },
+    {
+      "source": "Inventory",
+      "severity": "Info",
+      "description": "Stock adjustment for Cement Bag 40kg (restock) at 2024-07-01T00:00:00.000Z",
+      "timestamp": "2024-07-01T00:00:00.000Z"
+    },
+    {
+      "source": "Inventory",
+      "severity": "Info",
+      "description": "Stock adjustment for Rebar 10mm (restock) at 2024-07-01T00:00:00.000Z",
+      "timestamp": "2024-07-01T00:00:00.000Z"
+    },
+    {
+      "source": "Inventory",
+      "severity": "Info",
+      "description": "Stock adjustment for Gravel 1m3 (restock) at 2024-07-01T00:00:00.000Z",
+      "timestamp": "2024-07-01T00:00:00.000Z"
+    },
+    {
+      "source": "Inventory",
+      "severity": "Info",
+      "description": "Stock adjustment for Plywood 8ft (restock) at 2024-07-01T00:00:00.000Z",
+      "timestamp": "2024-07-01T00:00:00.000Z"
+    },
+    {
+      "source": "Inventory",
+      "severity": "Info",
+      "description": "Stock adjustment for Asphalt 50kg (restock) at 2024-07-01T00:00:00.000Z",
+      "timestamp": "2024-07-01T00:00:00.000Z"
+    },
+    {
+      "source": "Inventory",
+      "severity": "Info",
+      "description": "Stock adjustment for Hollow Block (restock) at 2024-07-01T00:00:00.000Z",
+      "timestamp": "2024-07-01T00:00:00.000Z"
+    },
+    {
+      "source": "Inventory",
+      "severity": "Info",
+      "description": "Stock adjustment for Cement Bag 40kg (restock) at 2024-10-01T00:00:00.000Z",
+      "timestamp": "2024-10-01T00:00:00.000Z"
+    },
+    {
+      "source": "Inventory",
+      "severity": "Info",
+      "description": "Stock adjustment for Rebar 10mm (restock) at 2024-10-01T00:00:00.000Z",
+      "timestamp": "2024-10-01T00:00:00.000Z"
+    },
+    {
+      "source": "Inventory",
+      "severity": "Info",
+      "description": "Stock adjustment for Gravel 1m3 (restock) at 2024-10-01T00:00:00.000Z",
+      "timestamp": "2024-10-01T00:00:00.000Z"
+    },
+    {
+      "source": "Inventory",
+      "severity": "Info",
+      "description": "Stock adjustment for Plywood 8ft (restock) at 2024-10-01T00:00:00.000Z",
+      "timestamp": "2024-10-01T00:00:00.000Z"
+    },
+    {
+      "source": "Inventory",
+      "severity": "Info",
+      "description": "Stock adjustment for Asphalt 50kg (restock) at 2024-10-01T00:00:00.000Z",
+      "timestamp": "2024-10-01T00:00:00.000Z"
+    },
+    {
+      "source": "Inventory",
+      "severity": "Info",
+      "description": "Stock adjustment for Hollow Block (restock) at 2024-10-01T00:00:00.000Z",
+      "timestamp": "2024-10-01T00:00:00.000Z"
+    },
+    {
+      "source": "Inventory",
+      "severity": "Info",
+      "description": "Stock adjustment for Cement Bag 40kg (restock) at 2024-11-01T00:00:00.000Z",
+      "timestamp": "2024-11-01T00:00:00.000Z"
+    },
+    {
+      "source": "Inventory",
+      "severity": "Info",
+      "description": "Stock adjustment for Rebar 10mm (restock) at 2024-11-01T00:00:00.000Z",
+      "timestamp": "2024-11-01T00:00:00.000Z"
+    },
+    {
+      "source": "Inventory",
+      "severity": "Info",
+      "description": "Stock adjustment for Gravel 1m3 (restock) at 2024-11-01T00:00:00.000Z",
+      "timestamp": "2024-11-01T00:00:00.000Z"
+    },
+    {
+      "source": "Inventory",
+      "severity": "Info",
+      "description": "Stock adjustment for Plywood 8ft (restock) at 2024-11-01T00:00:00.000Z",
+      "timestamp": "2024-11-01T00:00:00.000Z"
+    },
+    {
+      "source": "Inventory",
+      "severity": "Info",
+      "description": "Stock adjustment for Asphalt 50kg (restock) at 2024-11-01T00:00:00.000Z",
+      "timestamp": "2024-11-01T00:00:00.000Z"
+    },
+    {
+      "source": "Inventory",
+      "severity": "Info",
+      "description": "Stock adjustment for Hollow Block (restock) at 2024-11-01T00:00:00.000Z",
+      "timestamp": "2024-11-01T00:00:00.000Z"
+    },
+    {
+      "source": "Inventory",
+      "severity": "Info",
+      "description": "Stock adjustment for Cement Bag 40kg (restock) at 2024-12-01T00:00:00.000Z",
+      "timestamp": "2024-12-01T00:00:00.000Z"
+    },
+    {
+      "source": "Inventory",
+      "severity": "Info",
+      "description": "Stock adjustment for Rebar 10mm (restock) at 2024-12-01T00:00:00.000Z",
+      "timestamp": "2024-12-01T00:00:00.000Z"
+    },
+    {
+      "source": "Inventory",
+      "severity": "Info",
+      "description": "Stock adjustment for Gravel 1m3 (restock) at 2024-12-01T00:00:00.000Z",
+      "timestamp": "2024-12-01T00:00:00.000Z"
+    },
+    {
+      "source": "Inventory",
+      "severity": "Info",
+      "description": "Stock adjustment for Plywood 8ft (restock) at 2024-12-01T00:00:00.000Z",
+      "timestamp": "2024-12-01T00:00:00.000Z"
+    },
+    {
+      "source": "Inventory",
+      "severity": "Info",
+      "description": "Stock adjustment for Asphalt 50kg (restock) at 2024-12-01T00:00:00.000Z",
+      "timestamp": "2024-12-01T00:00:00.000Z"
+    },
+    {
+      "source": "Inventory",
+      "severity": "Info",
+      "description": "Stock adjustment for Hollow Block (restock) at 2024-12-01T00:00:00.000Z",
+      "timestamp": "2024-12-01T00:00:00.000Z"
+    },
+    {
+      "source": "POS",
+      "severity": "Warning",
+      "description": "Duplicate transaction ID TX100204 for item Plywood 8ft within 1 days",
+      "timestamp": "2023-05-29T00:00:00.000Z"
+    },
+    {
+      "source": "Inventory",
+      "severity": "Info",
+      "description": "Stock adjustment for Rebar 10mm (restock) at 2024-03-15T00:00:00.000Z",
+      "timestamp": "2024-03-15T00:00:00.000Z"
+    },
+    {
+      "source": "Inventory",
+      "severity": "Info",
+      "description": "Stock adjustment for Asphalt 50kg (manual) at 2024-09-10T00:00:00.000Z",
+      "timestamp": "2024-09-10T00:00:00.000Z"
+    },
+    {
+      "source": "POS",
+      "severity": "Warning",
+      "description": "High sales volume for item 2: 2182 units (threshold 1000)",
+      "timestamp": "2023-01-01T00:00:00.000Z"
+    },
+    {
+      "source": "POS",
+      "severity": "Warning",
+      "description": "High sales volume for item 3: 2296 units (threshold 1000)",
+      "timestamp": "2024-12-19T00:00:00.000Z"
+    },
+    {
+      "source": "POS",
+      "severity": "Warning",
+      "description": "High sales volume for item 1: 2388 units (threshold 1000)",
+      "timestamp": "2024-12-24T00:00:00.000Z"
+    }
+  ]
+}

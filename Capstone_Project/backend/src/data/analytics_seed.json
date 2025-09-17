@@ -1,0 +1,7 @@
+[
+  { "source": "POS-1", "metric": "cement_sales", "value": 120, "payload": {"branch":"Main"}, "created_at": "2025-08-25T09:00:00Z" },
+  { "source": "POS-2", "metric": "steel_rod_sales", "value": 80, "payload": {"branch":"Warehouse"}, "created_at": "2025-08-26T10:00:00Z" },
+  { "source": "Telematics", "metric": "truck_utilization", "value": 78, "payload": {"fleet":"Nagasat"}, "created_at": "2025-08-27T11:00:00Z" },
+  { "source": "POS-1", "metric": "cement_sales", "value": 220, "payload": {"branch":"Main"}, "created_at": "2025-09-03T09:00:00Z" },
+  { "source": "POS-2", "metric": "steel_rod_sales", "value": 160, "payload": {"branch":"Warehouse"}, "created_at": "2025-09-04T10:00:00Z" }
+]

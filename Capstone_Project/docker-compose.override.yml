@@ -1,0 +1,34 @@
+version: '3.8'
+
+services:
+  frontend:
+    # Mount local frontend source so changes are reflected inside container
+    volumes:
+      - ./frontend:/usr/src/app
+      - /usr/src/app/node_modules
+    ports:
+      - "3000:3000"
+    environment:
+      - CHOKIDAR_USEPOLLING=true
+      - BROWSER=none
+      - REACT_APP_API_URL=http://127.0.0.1:5000
+    command: sh -c "cd /usr/src/app && npm install --no-audit --no-fund && npm start"
+    depends_on:
+      - backend
+
+  backend:
+    # Mount local backend source so changes are reflected and nodemon can restart
+    volumes:
+      - ./backend:/usr/src/app
+      - /usr/src/app/node_modules
+    ports:
+      - "5000:5000"
+    environment:
+      - NODE_ENV=development
+      - PORT=5000
+      - DB_HOST=db
+    command: sh -c "cd /usr/src/app && npm install --no-audit --no-fund && npm run dev"
+    depends_on:
+      - db
+
+# db service is defined in docker-compose.yml; we rely on it

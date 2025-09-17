@@ -1,0 +1,542 @@
+[
+  {
+    "product_id": 1001,
+    "qty_on_hand": 10,
+    "location": "Nagasat Hardware - Main Warehouse"
+  },
+  {
+    "product_id": 1002,
+    "qty_on_hand": 53,
+    "location": "Nagasat Hardware - Main Warehouse"
+  },
+  {
+    "product_id": 1003,
+    "qty_on_hand": 44,
+    "location": "Nagasat Hardware - Main Warehouse"
+  },
+  {
+    "product_id": 1004,
+    "qty_on_hand": 35,
+    "location": "Nagasat Hardware - Main Warehouse"
+  },
+  {
+    "product_id": 1005,
+    "qty_on_hand": 38,
+    "location": "Nagasat Hardware - Main Warehouse"
+  },
+  {
+    "product_id": 1006,
+    "qty_on_hand": 27,
+    "location": "Nagasat Hardware - Main Warehouse"
+  },
+  {
+    "product_id": 1007,
+    "qty_on_hand": 16,
+    "location": "Nagasat Hardware - Main Warehouse"
+  },
+  {
+    "product_id": 1008,
+    "qty_on_hand": 5,
+    "location": "Nagasat Hardware - Main Warehouse"
+  },
+  {
+    "product_id": 1009,
+    "qty_on_hand": 30,
+    "location": "Nagasat Hardware - Main Warehouse"
+  },
+  {
+    "product_id": 1010,
+    "qty_on_hand": 19,
+    "location": "Nagasat Hardware - Main Warehouse"
+  },
+  {
+    "product_id": 1011,
+    "qty_on_hand": 8,
+    "location": "Nagasat Hardware - Main Warehouse"
+  },
+  {
+    "product_id": 1012,
+    "qty_on_hand": 33,
+    "location": "Nagasat Hardware - Main Warehouse"
+  },
+  {
+    "product_id": 1013,
+    "qty_on_hand": 60,
+    "location": "Nagasat Hardware - Main Warehouse"
+  },
+  {
+    "product_id": 1014,
+    "qty_on_hand": 19,
+    "location": "Nagasat Hardware - Main Warehouse"
+  },
+  {
+    "product_id": 1015,
+    "qty_on_hand": 40,
+    "location": "Nagasat Hardware - Main Warehouse"
+  },
+  {
+    "product_id": 1016,
+    "qty_on_hand": 61,
+    "location": "Nagasat Hardware - Main Warehouse"
+  },
+  {
+    "product_id": 1017,
+    "qty_on_hand": 6,
+    "location": "Nagasat Hardware - Main Warehouse"
+  },
+  {
+    "product_id": 1018,
+    "qty_on_hand": 27,
+    "location": "Nagasat Hardware - Main Warehouse"
+  },
+  {
+    "product_id": 1019,
+    "qty_on_hand": 48,
+    "location": "Nagasat Hardware - Main Warehouse"
+  },
+  {
+    "product_id": 1020,
+    "qty_on_hand": 69,
+    "location": "Nagasat Hardware - Main Warehouse"
+  },
+  {
+    "product_id": 1021,
+    "qty_on_hand": 14,
+    "location": "Nagasat Hardware - Main Warehouse"
+  },
+  {
+    "product_id": 1022,
+    "qty_on_hand": 35,
+    "location": "Nagasat Hardware - Main Warehouse"
+  },
+  {
+    "product_id": 1023,
+    "qty_on_hand": 56,
+    "location": "Nagasat Hardware - Main Warehouse"
+  },
+  {
+    "product_id": 1024,
+    "qty_on_hand": 77,
+    "location": "Nagasat Hardware - Main Warehouse"
+  },
+  {
+    "product_id": 1025,
+    "qty_on_hand": 22,
+    "location": "Nagasat Hardware - Main Warehouse"
+  },
+  {
+    "product_id": 1026,
+    "qty_on_hand": 43,
+    "location": "Nagasat Hardware - Main Warehouse"
+  },
+  {
+    "product_id": 1027,
+    "qty_on_hand": 4,
+    "location": "Nagasat Hardware - Main Warehouse"
+  },
+  {
+    "product_id": 1028,
+    "qty_on_hand": 37,
+    "location": "Nagasat Hardware - Main Warehouse"
+  },
+  {
+    "product_id": 1029,
+    "qty_on_hand": 26,
+    "location": "Nagasat Hardware - Main Warehouse"
+  },
+  {
+    "product_id": 1030,
+    "qty_on_hand": 15,
+    "location": "Nagasat Hardware - Main Warehouse"
+  },
+  {
+    "product_id": 1031,
+    "qty_on_hand": 8,
+    "location": "Nagasat Hardware - Main Warehouse"
+  },
+  {
+    "product_id": 1032,
+    "qty_on_hand": 5,
+    "location": "Nagasat Hardware - Main Warehouse"
+  },
+  {
+    "product_id": 1033,
+    "qty_on_hand": 2,
+    "location": "Nagasat Hardware - Main Warehouse"
+  },
+  {
+    "product_id": 1034,
+    "qty_on_hand": 19,
+    "location": "Nagasat Hardware - Main Warehouse"
+  },
+  {
+    "product_id": 1035,
+    "qty_on_hand": 16,
+    "location": "Nagasat Hardware - Main Warehouse"
+  },
+  {
+    "product_id": 1036,
+    "qty_on_hand": 13,
+    "location": "Nagasat Hardware - Main Warehouse"
+  },
+  {
+    "product_id": 1037,
+    "qty_on_hand": 10,
+    "location": "Nagasat Hardware - Main Warehouse"
+  },
+  {
+    "product_id": 1038,
+    "qty_on_hand": 7,
+    "location": "Nagasat Hardware - Main Warehouse"
+  },
+  {
+    "product_id": 1039,
+    "qty_on_hand": 4,
+    "location": "Nagasat Hardware - Main Warehouse"
+  },
+  {
+    "product_id": 1040,
+    "qty_on_hand": 29,
+    "location": "Nagasat Hardware - Main Warehouse"
+  },
+  {
+    "product_id": 1041,
+    "qty_on_hand": 20,
+    "location": "Nagasat Hardware - Main Warehouse"
+  },
+  {
+    "product_id": 1042,
+    "qty_on_hand": 99,
+    "location": "Nagasat Hardware - Main Warehouse"
+  },
+  {
+    "product_id": 1043,
+    "qty_on_hand": 196,
+    "location": "Nagasat Hardware - Main Warehouse"
+  },
+  {
+    "product_id": 1044,
+    "qty_on_hand": 46,
+    "location": "Nagasat Hardware - Main Warehouse"
+  },
+  {
+    "product_id": 1045,
+    "qty_on_hand": 37,
+    "location": "Nagasat Hardware - Main Warehouse"
+  },
+  {
+    "product_id": 1046,
+    "qty_on_hand": 28,
+    "location": "Nagasat Hardware - Main Warehouse"
+  },
+  {
+    "product_id": 1047,
+    "qty_on_hand": 19,
+    "location": "Nagasat Hardware - Main Warehouse"
+  },
+  {
+    "product_id": 1048,
+    "qty_on_hand": 10,
+    "location": "Nagasat Hardware - Main Warehouse"
+  },
+  {
+    "product_id": 1049,
+    "qty_on_hand": 23,
+    "location": "Nagasat Hardware - Main Warehouse"
+  },
+  {
+    "product_id": 1050,
+    "qty_on_hand": 4,
+    "location": "Nagasat Hardware - Main Warehouse"
+  },
+  {
+    "product_id": 1051,
+    "qty_on_hand": 320,
+    "location": "Nagasat Hardware - Main Warehouse"
+  },
+  {
+    "product_id": 1052,
+    "qty_on_hand": 417,
+    "location": "Nagasat Hardware - Main Warehouse"
+  },
+  {
+    "product_id": 1053,
+    "qty_on_hand": 23,
+    "location": "Nagasat Hardware - Main Warehouse"
+  },
+  {
+    "product_id": 1054,
+    "qty_on_hand": 47,
+    "location": "Nagasat Hardware - Main Warehouse"
+  },
+  {
+    "product_id": 1055,
+    "qty_on_hand": 28,
+    "location": "Nagasat Hardware - Main Warehouse"
+  },
+  {
+    "product_id": 1056,
+    "qty_on_hand": 9,
+    "location": "Nagasat Hardware - Main Warehouse"
+  },
+  {
+    "product_id": 1057,
+    "qty_on_hand": 106,
+    "location": "Nagasat Hardware - Main Warehouse"
+  },
+  {
+    "product_id": 1058,
+    "qty_on_hand": 87,
+    "location": "Nagasat Hardware - Main Warehouse"
+  },
+  {
+    "product_id": 1059,
+    "qty_on_hand": 68,
+    "location": "Nagasat Hardware - Main Warehouse"
+  },
+  {
+    "product_id": 1060,
+    "qty_on_hand": 49,
+    "location": "Nagasat Hardware - Main Warehouse"
+  },
+  {
+    "product_id": 1061,
+    "qty_on_hand": 30,
+    "location": "Nagasat Hardware - Main Warehouse"
+  },
+  {
+    "product_id": 1062,
+    "qty_on_hand": 11,
+    "location": "Nagasat Hardware - Main Warehouse"
+  },
+  {
+    "product_id": 1063,
+    "qty_on_hand": 108,
+    "location": "Nagasat Hardware - Main Warehouse"
+  },
+  {
+    "product_id": 1064,
+    "qty_on_hand": 19,
+    "location": "Nagasat Hardware - Main Warehouse"
+  },
+  {
+    "product_id": 1065,
+    "qty_on_hand": 57,
+    "location": "Nagasat Hardware - Main Warehouse"
+  },
+  {
+    "product_id": 1066,
+    "qty_on_hand": 167,
+    "location": "Nagasat Hardware - Main Warehouse"
+  },
+  {
+    "product_id": 1067,
+    "qty_on_hand": 15,
+    "location": "Nagasat Hardware - Main Warehouse"
+  },
+  {
+    "product_id": 1068,
+    "qty_on_hand": 53,
+    "location": "Nagasat Hardware - Main Warehouse"
+  },
+  {
+    "product_id": 1069,
+    "qty_on_hand": 38,
+    "location": "Nagasat Hardware - Main Warehouse"
+  },
+  {
+    "product_id": 1070,
+    "qty_on_hand": 135,
+    "location": "Nagasat Hardware - Main Warehouse"
+  },
+  {
+    "product_id": 1071,
+    "qty_on_hand": 86,
+    "location": "Nagasat Hardware - Main Warehouse"
+  },
+  {
+    "product_id": 1072,
+    "qty_on_hand": 37,
+    "location": "Nagasat Hardware - Main Warehouse"
+  },
+  {
+    "product_id": 1073,
+    "qty_on_hand": 10,
+    "location": "Nagasat Hardware - Main Warehouse"
+  },
+  {
+    "product_id": 1074,
+    "qty_on_hand": 35,
+    "location": "Nagasat Hardware - Main Warehouse"
+  },
+  {
+    "product_id": 1075,
+    "qty_on_hand": 24,
+    "location": "Nagasat Hardware - Main Warehouse"
+  },
+  {
+    "product_id": 1076,
+    "qty_on_hand": 13,
+    "location": "Nagasat Hardware - Main Warehouse"
+  },
+  {
+    "product_id": 1077,
+    "qty_on_hand": 38,
+    "location": "Nagasat Hardware - Main Warehouse"
+  },
+  {
+    "product_id": 1078,
+    "qty_on_hand": 27,
+    "location": "Nagasat Hardware - Main Warehouse"
+  },
+  {
+    "product_id": 1079,
+    "qty_on_hand": 16,
+    "location": "Nagasat Hardware - Main Warehouse"
+  },
+  {
+    "product_id": 1080,
+    "qty_on_hand": 5,
+    "location": "Nagasat Hardware - Main Warehouse"
+  },
+  {
+    "product_id": 1081,
+    "qty_on_hand": 31,
+    "location": "Nagasat Hardware - Main Warehouse"
+  },
+  {
+    "product_id": 1082,
+    "qty_on_hand": 381,
+    "location": "Nagasat Hardware - Main Warehouse"
+  },
+  {
+    "product_id": 1083,
+    "qty_on_hand": 478,
+    "location": "Nagasat Hardware - Main Warehouse"
+  },
+  {
+    "product_id": 1084,
+    "qty_on_hand": 57,
+    "location": "Nagasat Hardware - Main Warehouse"
+  },
+  {
+    "product_id": 1085,
+    "qty_on_hand": 38,
+    "location": "Nagasat Hardware - Main Warehouse"
+  },
+  {
+    "product_id": 1086,
+    "qty_on_hand": 19,
+    "location": "Nagasat Hardware - Main Warehouse"
+  },
+  {
+    "product_id": 1087,
+    "qty_on_hand": 30,
+    "location": "Nagasat Hardware - Main Warehouse"
+  },
+  {
+    "product_id": 1088,
+    "qty_on_hand": 21,
+    "location": "Nagasat Hardware - Main Warehouse"
+  },
+  {
+    "product_id": 1089,
+    "qty_on_hand": 12,
+    "location": "Nagasat Hardware - Main Warehouse"
+  },
+  {
+    "product_id": 1090,
+    "qty_on_hand": 56,
+    "location": "Nagasat Hardware - Main Warehouse"
+  },
+  {
+    "product_id": 1091,
+    "qty_on_hand": 47,
+    "location": "Nagasat Hardware - Main Warehouse"
+  },
+  {
+    "product_id": 1092,
+    "qty_on_hand": 38,
+    "location": "Nagasat Hardware - Main Warehouse"
+  },
+  {
+    "product_id": 1093,
+    "qty_on_hand": 29,
+    "location": "Nagasat Hardware - Main Warehouse"
+  },
+  {
+    "product_id": 1094,
+    "qty_on_hand": 20,
+    "location": "Nagasat Hardware - Main Warehouse"
+  },
+  {
+    "product_id": 1095,
+    "qty_on_hand": 11,
+    "location": "Nagasat Hardware - Main Warehouse"
+  },
+  {
+    "product_id": 1096,
+    "qty_on_hand": 55,
+    "location": "Nagasat Hardware - Main Warehouse"
+  },
+  {
+    "product_id": 1097,
+    "qty_on_hand": 46,
+    "location": "Nagasat Hardware - Main Warehouse"
+  },
+  {
+    "product_id": 1098,
+    "qty_on_hand": 37,
+    "location": "Nagasat Hardware - Main Warehouse"
+  },
+  {
+    "product_id": 1099,
+    "qty_on_hand": 28,
+    "location": "Nagasat Hardware - Main Warehouse"
+  },
+  {
+    "product_id": 1100,
+    "qty_on_hand": 514,
+    "location": "Nagasat Hardware - Main Warehouse"
+  },
+  {
+    "product_id": 1101,
+    "qty_on_hand": 611,
+    "location": "Nagasat Hardware - Main Warehouse"
+  },
+  {
+    "product_id": 1102,
+    "qty_on_hand": 54,
+    "location": "Nagasat Hardware - Main Warehouse"
+  },
+  {
+    "product_id": 1103,
+    "qty_on_hand": 45,
+    "location": "Nagasat Hardware - Main Warehouse"
+  },
+  {
+    "product_id": 1104,
+    "qty_on_hand": 36,
+    "location": "Nagasat Hardware - Main Warehouse"
+  },
+  {
+    "product_id": 1105,
+    "qty_on_hand": 6,
+    "location": "Nagasat Hardware - Main Warehouse"
+  },
+  {
+    "product_id": 1106,
+    "qty_on_hand": 103,
+    "location": "Nagasat Hardware - Main Warehouse"
+  },
+  {
+    "product_id": 1107,
+    "qty_on_hand": 84,
+    "location": "Nagasat Hardware - Main Warehouse"
+  },
+  {
+    "product_id": 1108,
+    "qty_on_hand": 65,
+    "location": "Nagasat Hardware - Main Warehouse"
+  } 
+]
